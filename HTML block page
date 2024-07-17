@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +7,6 @@
 <body>
     <h1>Access Denied</h1>
     <p>Your access to this site has been blocked by the network administrator. Your attempt to access this site has been flagged and reported!</p>
-    <img src="https://i.giphy.com/owRSsSHHoVYFa.webp" alt="Access Denied">
+    <img src="https://i.ibb.co/Zd1xCgP/tenor.gif" alt="Access Denied">
 </body>
 </html>
